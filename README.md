@@ -4,7 +4,7 @@
 
 ![Adobe Hackathon Banner](https://img.shields.io/badge/🏆_Adobe_India_Hackathon_2025-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
-<h1>🧠 PDF Structure Engine</h1>
+<h1>🧠 PDF Structure Engine(1A)</h1>
 <h3>Intelligent PDF Document Structure Extraction & Hierarchical Content Analysis</h3>
 
 ![Build Passing](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
@@ -568,26 +568,7 @@ curl -X POST "http://demo.pdf-structure-engine.com/api/v1/process" \
   -F "confidence_threshold=0.85"
 ```
 
-### 📊 Interactive Dashboard
-Visit our live demo at: **[demo.pdf-structure-engine.com](http://demo.pdf-structure-engine.com)**
 
-Features available in demo:
-- ✅ Upload and process PDF files
-- ✅ Real-time processing visualization
-- ✅ Interactive JSON output explorer
-- ✅ Performance metrics dashboard
-- ✅ Confidence score analysis
-- ✅ Batch processing demonstration
-
----
-
-## 📞 Support & Contact
-
-### 🤝 Getting Help
-- 📧 **Technical Support:** support@pdf-structure-engine.com
-- 💬 **Community Discord:** [Join our Discord](https://discord.gg/pdf-structure-engine)
-- 📚 **Documentation:** [docs.pdf-structure-engine.com](http://docs.pdf-structure-engine.com)
-- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/your-team/pdf-structure-engine/issues)
 
 ### 👥 Team Contact
 - **Danda Arun Kumar** - Lead Developer: dandaarunkumar777@gmail.com
