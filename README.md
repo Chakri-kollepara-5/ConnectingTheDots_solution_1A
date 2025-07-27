@@ -634,5 +634,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Beta testers who provided valuable feedback during development
 
 ---
-
-*Last updated: January 2025 | Version 1.0.0 | Adobe India Hackathon 2025*
