@@ -557,17 +557,6 @@ adobe_1A/                           # Round 1A: PDF Structure Engine
 
 ---
 
-## 🌟 Live Demo
-
-### 🚀 Try It Now
-```bash
-# Quick demo with sample PDF
-curl -X POST "http://demo.pdf-structure-engine.com/api/v1/process" \
-  -H "Content-Type: multipart/form-data" \
-  -F "file=@sample_document.pdf" \
-  -F "confidence_threshold=0.85"
-```
-
 
 
 ### 👥 Team Contact
