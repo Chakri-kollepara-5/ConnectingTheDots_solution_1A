@@ -590,9 +590,9 @@ Features available in demo:
 - 🐛 **Bug Reports:** [GitHub Issues](https://github.com/your-team/pdf-structure-engine/issues)
 
 ### 👥 Team Contact
-- **Danda Arun Kumar** - Lead Developer: arun@team.com
-- **Panchireddi Praveen** - ML Engineer: praveen@team.com  
-- **Kollepara Venkata Sri Chakravarthi** - DevOps Engineer: chakri@team.com
+- **Danda Arun Kumar** - Lead Developer: dandaarunkumar777@gmail.com
+- **Panchireddi Praveen** - ML Engineer: 21072cm042@gmail.com 
+- **Kollepara Venkata Sri Chakravarthi** - DevOps Engineer: vschakravarthi7@gmail.com
 
 ---
 
